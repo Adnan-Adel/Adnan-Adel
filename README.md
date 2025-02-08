@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
-<h3 align="center">A passionate and Motivated 3rd-year Communications and Computers Engineering student with a strong background in Embedded Systems.</h3>
+<h3 align="center">A passionate and Motivated 4th-year Communications and Computers Engineering student.</h3>
 
 - 📫 How to reach me **adnanadel439@gmail.com**
 
